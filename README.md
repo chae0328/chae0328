@@ -10,7 +10,7 @@
 
 ## Contact
 - Email : nodang124@gmail.com
-- GitHub : 깃허브링크
+- GitHub : https://github.com/chae0328
 
 <br/>
 
@@ -33,7 +33,7 @@
 
 ## Projects
 
-### 얼굴형 분석에 따른 맞춤 헤어스타일 합성 시스템 구현
+### [얼굴형 분석에 따른 맞춤 헤어스타일 합성 시스템 구현](https://github.com/chae0328/Custom_HairStyle_Synthesis.git)
 * **프로그램을 통한 사용자에게 적합한 헤어스타일 이미지 합성 시스템**
 * 헤어스타일 선택에 대한 고민을 해결하기 위한 프로젝트
 * 개발기간
