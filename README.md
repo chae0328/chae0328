@@ -116,14 +116,14 @@
 
 ## Thesis
 
-* **[얼굴형 분석에 따른 맞춤 헤어스타일 합성 시스템 구현](논문파일링크)**
+* **[얼굴형 분석에 따른 맞춤 헤어스타일 합성 시스템 구현](https://drive.google.com/file/d/1JaSaX93qrTxa_MoR6r2zn5xS8wiJwW8T/view?usp=sharing)**
   * 일시 : 2022.12.02
   * 주최기관 : 한국산업정보학회
 
-* **[객체 알고리즘을 활용한 젖소 분만 예정 탐지 및 난산 손실 예방 시스템](논문파일링크)**
+* **[객체 알고리즘을 활용한 젖소 분만 예정 탐지 및 난산 손실 예방 시스템](https://drive.google.com/file/d/16_rhO98BP18dDVhe6u2B2O9AGF2B-R-C/view?usp=sharing)**
   * 일시 : 2022.06.17
   * 주최기관 : 한국산업정보학회
 
-* **[딥러닝 기반 젖소 꼬리 탐지 및 행동 분석](논문파일링크)**
+* **[딥러닝 기반 젖소 꼬리 탐지 및 행동 분석](https://drive.google.com/file/d/1W_hA4Z9-mH4tZeSnDyQEr8B5-8OY1dSi/view?usp=sharing)**
   * 일시 : 2022.05.19
   * 주최기관 : 대한임베디드공학회
