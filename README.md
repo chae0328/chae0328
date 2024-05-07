@@ -57,7 +57,7 @@
 <br/>
 <br/>
 
-### [E-S 시스템](https://github.com/chae0328/YOLOv4_darknet_ES_System.git)
+### [E-S(Equiptment-Safty) 시스템](https://github.com/chae0328/YOLOv4_darknet_ES_System.git)
 * **골절기에 의한 손 부상을 방지하기 위한 시스템**
 * 산업 근로자들의 안전을 개선하기 위한 프로젝트
 * 개발기간
