@@ -1,6 +1,6 @@
 # Resume
 
-채성욱<br/>
+## NAME : 채성욱<br/>
 
 <img src = "https://user-images.githubusercontent.com/95071769/210631043-1fb14a8b-2bb8-4162-8d86-9da0722e2243.jpg" width="250px">
 
