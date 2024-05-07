@@ -101,7 +101,7 @@
   * 발행기관 : 경북테크노파크
 <br/>
 
-## Thesis
+## 학술회의(발표)
 
 * **[얼굴형 분석에 따른 맞춤 헤어스타일 합성 시스템 구현](https://drive.google.com/file/d/1JaSaX93qrTxa_MoR6r2zn5xS8wiJwW8T/view?usp=sharing)**
   * 일시 : 2022.12.02
