@@ -1,12 +1,10 @@
 # Resume
 
-안녕하세요<br/>
-저는 AI 개발자를 꿈꾸는 채성욱 입니다.
+채성욱<br/>
 
 <img src = "https://user-images.githubusercontent.com/95071769/210631043-1fb14a8b-2bb8-4162-8d86-9da0722e2243.jpg" width="250px">
 
-
-저는 AI 개발에 관심이 많습니다!:smiley:
+저는 AI와 관련한 개발에 관심이 많습니다.!:smiley:
 
 ## Contact
 - Email : nodang124@gmail.com
