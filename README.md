@@ -108,6 +108,10 @@
 
 ## 학술회의(발표)
 
+* **[자세 추정 알고리즘 기반 젖소의 행동 변화에 따른 분만 징후 예측](https://drive.google.com/file/d/1C3bY7Lui8t1goZIiIyd4dfAyA0xVJgnN/view?usp=sharing)**
+  * 일시 : 2023.12.02
+  * 주최기관 : 한국산업정보학회
+
 * **[얼굴형 분석에 따른 맞춤 헤어스타일 합성 시스템 구현](https://drive.google.com/file/d/1JaSaX93qrTxa_MoR6r2zn5xS8wiJwW8T/view?usp=sharing)**
   * 일시 : 2022.12.02
   * 주최기관 : 한국산업정보학회
