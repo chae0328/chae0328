@@ -37,6 +37,7 @@
 
 <br/>
 <br/>
+![](https://private-user-images.githubusercontent.com/75009005/350691549-e7d63407-7543-40be-9898-67a4aff787fb.gif)
 
 
 ### [객체 알고리즘을 활용한 젖소 분만 예정 탐지 및 난산 손실 예방 시스템](https://github.com/chae0328/YOLOv4_darknet_CowCalvingCare_System.git)
