@@ -33,11 +33,12 @@
   * **개선할 부분** : 해당 시스템에서 사용한 합성모델은 결과 추출까지 상당한 시간이 소요되었으며 해당 관련된 성능 개선이 필요하다.<br/><br/> 외부적 근거 자료로 인한 적합한 헤어스타일을 찾아주는 것이 아닌 데이터 분석을 비롯하여 구현된 딥러닝 기반의 추천시스템 연구도 필요하다.<br/>
 ![](https://user-images.githubusercontent.com/95071769/210629335-710384bf-4121-41fa-9d33-551e821cba13.gif)
 
+![](https://github.com/user-attachments/assets/4d6525a1-8f06-4e66-ac5b-6129e1311331)
 
 
 <br/>
 <br/>
-![](https://private-user-images.githubusercontent.com/75009005/350691549-e7d63407-7543-40be-9898-67a4aff787fb.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjE0NzkwODEsIm5iZiI6MTcyMTQ3ODc4MSwicGF0aCI6Ii83NTAwOTAwNS8zNTA2OTE1NDktZTdkNjM0MDctNzU0My00MGJlLTk4OTgtNjdhNGFmZjc4N2ZiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzIwVDEyMzMwMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc1ZDJiZjQ5YWRiNTQyMDg1ZTg0NTQwY2ZmYWUyYzMwNTBlMTUxNzFkYjNjZGM5ZmEzZjBjNWU3NGFmYzYzODUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.K2GXV-Yq1EwJXn-n2oJQUwUuF8I-RpRHpRUZD_rzcJQ)
+
 
 
 ### [객체 알고리즘을 활용한 젖소 분만 예정 탐지 및 난산 손실 예방 시스템](https://github.com/chae0328/YOLOv4_darknet_CowCalvingCare_System.git)
