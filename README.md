@@ -73,6 +73,7 @@
   * **개선할 부분** : 객체 탐지를 할때 배경에 따라 정확도가 낮게 나오는 경향을 개선할 필요가 있고, Jetson Nano 보드보다 가벼운 보드에도 원활히 실행될 수 있도록 경량화를 시킬 필요가 있다.<br/>
 ![](https://user-images.githubusercontent.com/95071769/210629246-be9a924a-355a-45cf-bc2a-b4cd93841aac.gif)
 
+![cow_pose_estimation](https://github.com/user-attachments/assets/1bac7d6f-5e6e-464c-aa7f-2b2244e24607)
 
 <br/>
 <br/>
