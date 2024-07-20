@@ -54,7 +54,6 @@
   * **개선할 부분** : 젖소가 꼬리를 올린 형태에 대한 정확도가 부족하여 학습에 필요한 데이터를 추가로 수집하여야 한다. <br/><br/> Firebase를 통해 알림을 전송받을 때 지연시간이 존재하므로 추후 이를 개선하여야 한다. <br/><br/> 젖소의 꼬리를 올리는 행동이 얼마나 지속되어야 분만 예측이라 할수 있는지에 대한 정확한 연구도 진행되어야 한다.<br/>
 ![](https://user-images.githubusercontent.com/95071769/210629375-2fa72cb6-76ec-4330-8e3d-8409f0ed7133.gif)
 
-![pose_estimation](https://github.com/user-attachments/assets/47d2484c-f666-415c-ace1-e8837f73a2a9)
 
 <br/>
 <br/>
