@@ -30,12 +30,8 @@
 ![](https://user-images.githubusercontent.com/95071769/210629335-710384bf-4121-41fa-9d33-551e821cba13.gif)
 
 
-
-
 <br/>
 <br/>
-
-
 
 ### [객체 알고리즘을 활용한 젖소 분만 예정 탐지 및 난산 손실 예방 시스템](https://github.com/chae0328/YOLOv4_darknet_CowCalvingCare_System.git)
 * **비전 시스템을 활용해 난산 위험을 예측하고 분만 결과를 알릴 수 있는 시스템**
@@ -67,6 +63,10 @@
   * **개선할 부분** : 객체 탐지를 할때 배경에 따라 정확도가 낮게 나오는 경향을 개선할 필요가 있고, Jetson Nano 보드보다 가벼운 보드에도 원활히 실행될 수 있도록 경량화될 필요가 있습니다.<br/>
 ![](https://user-images.githubusercontent.com/95071769/210629246-be9a924a-355a-45cf-bc2a-b4cd93841aac.gif)
 
+
+<br/>
+<br/>
+
 ### **자세 추정 모델을 이용한 젖소의 행동 변화에 따른 분만 징후 예측**
 * **젖소의 행동 변화에 따른 분만 징후 예측**
 * 객체 알고리즘을 활용한 젖소 분만 예정 탐지 및 난산 손실 예방 시스템 성능을 개선하기 위한 프로젝트
@@ -78,6 +78,7 @@
 
   * **개선할 부분** : 객체 탐지를 할때 배경에 따라 정확도가 낮게 나오는 경향을 개선할 필요가 있고, Jetson Nano 보드보다 가벼운 보드에도 원활히 실행될 수 있도록 경량화될 필요가 있습니다.<br/>
 ![cow_pose_estimation](https://github.com/user-attachments/assets/1bac7d6f-5e6e-464c-aa7f-2b2244e24607)
+
 
 <br/>
 <br/>
