@@ -85,9 +85,10 @@
   * **개선할 부분** :주위 환경이나 장애물로 인한 문제점을 겪었고 다양한 환경에서도 안정적인 성능을 보장하는 알고리즘이 필요합니다.<br/>
 ![cow_pose_estimation](https://github.com/user-attachments/assets/1bac7d6f-5e6e-464c-aa7f-2b2244e24607)
 
-### [1/5 자율 주행 프로젝트](https://github.com/chae0328/Custom_HairStyle_Synthesis.git)
 <br/>
 <br/>
+
+### [1/5 자율 주행 프로젝트](https://github.com/chae0328/Custom_HairStyle_Synthesis.git) <- Click the link!!!
 
 ## Prizes
 
