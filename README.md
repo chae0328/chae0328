@@ -88,7 +88,7 @@
 <br/>
 <br/>
 
-### [1/5 자율 주행 프로젝트](https://github.com/chae0328/1_5_Autonomous-driving.git) <- Click the link for more information!!
+### [1/5 자율 주행 프로젝트](https://github.com/chae0328/1_5_Autonomous-driving/blob/main/README.md) <- Click the link for more information!!
 ![corner_car_sample](https://github.com/user-attachments/assets/794178f1-db04-4b70-b22c-03308e914c36)
 ![corner-sample](https://github.com/user-attachments/assets/95eba108-26dd-424c-abc3-72fb014d7a14)
 
