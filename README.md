@@ -89,9 +89,9 @@
 <br/>
 
 ### [1/5 자율 주행 프로젝트](https://github.com/chae0328/1_5_Autonomous-driving/blob/main/README.md) <-- Click the link for more information!!
-<br/><br/>
-![corner_car_sample](https://github.com/user-attachments/assets/e62334a2-e6ed-4226-9bd3-d94375f1dcef)
-![corner-sample](https://github.com/user-attachments/assets/a6cc1114-affa-4e20-859b-d6c8466de74a)
+<br/>
+![corner_car_sample](https://github.com/user-attachments/assets/32a2e06a-1a92-49d3-a269-7e155d5315e9)
+![corner-sample](https://github.com/user-attachments/assets/bd521465-eaec-4367-acd2-e6df1b747173)
 
 
 ## Prizes
