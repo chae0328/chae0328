@@ -88,7 +88,7 @@
 <br/>
 <br/>
 
-### [1/5 자율 주행 프로젝트](https://github.com/chae0328/Custom_HairStyle_Synthesis.git) <- Click the link!!!
+### [1/5 자율 주행 프로젝트](https://github.com/chae0328/Custom_HairStyle_Synthesis.git) <- Click the link for more information!!!
 
 ## Prizes
 
