@@ -89,8 +89,8 @@
 <br/>
 
 ### [1/5 자율 주행 프로젝트](https://github.com/chae0328/Custom_HairStyle_Synthesis.git) <- Click the link for more information!!
-![corner_car_sample](https://github.com/user-attachments/assets/8351cdb3-53a4-483a-88f7-72e4b5afcc91){: width="320" height="320"}
-![corner-sample](https://github.com/user-attachments/assets/6eb65f73-21ba-4677-aff4-569e3002dce3){: width="320" height="320"}
+![corner_car_sample](https://github.com/user-attachments/assets/8351cdb3-53a4-483a-88f7-72e4b5afcc91)
+![corner-sample](https://github.com/user-attachments/assets/6eb65f73-21ba-4677-aff4-569e3002dce3)
 
 ## Prizes
 
