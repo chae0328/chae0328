@@ -68,7 +68,7 @@
 <br/>
 
 ### [자세 추정 모델을 이용한 젖소의 행동 변화에 따른 분만 징후 예측](https://github.com/chae0328/YOLOv4_darknet_CowCalvingCare_System.git) <-- Access is currently unavailable!!
-* **젖소의 행동 변화에 따른 분만 징후 예측**
+* **포즈 추정과 시계열 예측 모델을 활용하여 꼬리를 지속적으로 올리는 행위를 탐지 하기 위한 연구 **
 * 목적 : 객체 알고리즘을 활용한 젖소 분만 예정 탐지 및 난산 손실 예방 시스템 성능을 개선하기 위한 프로젝트
   
 * 알고리즘 구성
