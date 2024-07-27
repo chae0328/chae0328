@@ -16,7 +16,7 @@
 ## Projects
 
 ### [얼굴형 분석에 따른 맞춤 헤어스타일 합성 시스템 구현](https://github.com/chae0328/Custom_HairStyle_Synthesis.git) <-- Access is currently unavailable!!
-* **프로그램을 통한 사용자에게 적합한 헤어스타일 이미지 합성 시스템**
+* **어플리케이션을 통해 사용자가 얼굴형에 적합한 헤어스타일을 찾고, 시뮬레이션 할 수 있는 시스템**
 * 목적 : 헤어스타일 선택에 대한 고민을 해결하기 위한 프로젝트
   
 * 알고리즘 구성
