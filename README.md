@@ -88,7 +88,8 @@
 <br/>
 <br/>
 
-### [1/5 자율 주행 프로젝트](https://github.com/chae0328/1_5_Autonomous-driving/blob/main/README.md) <-- Click the link for more information!!
+### [1/5 자율 주행 프로젝트](https://github.com/chae0328/1_5_Autonomous-driving/blob/main/README.md) <-- Click the link for more information!!<br/><br/> 
+* **컴퓨터 비전과 라이다 센서를 활용한 차량 제어**<br/><br/> 
 ![corner_car_sample](https://github.com/user-attachments/assets/39c0a9a9-1a4a-4b75-b593-030270230401)
 ![corner-sample](https://github.com/user-attachments/assets/b6f249bb-3624-475e-aeb9-587d23cec4e1)
 
