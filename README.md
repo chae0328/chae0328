@@ -15,7 +15,7 @@
 
 ## Projects
 
-### [E-S(Equiptment-Safty) 시스템](https://github.com/chae0328/YOLOv4_darknet_ES_System.git) <-- Access is currently unavailable
+### [E-S(Equiptment-Safty) 시스템](https://github.com/chae0328/YOLOv4_darknet_ES_System.git)
 * **골절기에 의한 손 부상을 방지하기 위한 시스템**
 * 목적 : 산업 근로자들의 안전을 개선하기 위한 프로젝트
   
@@ -32,7 +32,7 @@
 <br/>
 <br/>
 
-### [객체 알고리즘을 활용한 젖소 분만 예정 탐지 및 난산 손실 예방 시스템](https://github.com/chae0328/YOLOv4_darknet_CowCalvingCare_System.git) <-- Access is currently unavailable!!
+### [객체 알고리즘을 활용한 젖소 분만 예정 탐지 및 난산 손실 예방 시스템](https://github.com/chae0328/YOLOv4_darknet_CowCalvingCare_System.git)
 * **비전 시스템을 활용해 난산 위험을 예측하고 분만 결과를 알릴 수 있는 시스템**
 * 목적 : 1차 산업의 인력 부족의 불편함을 해소하기 위한 프로젝트
   
@@ -47,7 +47,7 @@
 <br/>
 <br/>
 
-### [자세 추정 모델을 이용한 젖소의 행동 변화에 따른 분만 징후 예측](https://github.com/chae0328/YOLOv4_darknet_CowCalvingCare_System.git) <-- Access is currently unavailable!!
+### [자세 추정 모델을 이용한 젖소의 행동 변화에 따른 분만 징후 예측](https://github.com/chae0328/YOLOv4_darknet_CowCalvingCare_System.git)
 * **포즈 추정과 시계열 예측 모델을 활용하여 꼬리를 지속적으로 올리는 행위를 탐지 하기 위한 연구**
 * 목적 : 객체 알고리즘을 활용한 젖소 분만 예정 탐지 및 난산 손실 예방 시스템 성능을 개선하기 위한 프로젝트
   
@@ -68,7 +68,7 @@
 <br/>
 <br/>
 
-### [얼굴형 분석에 따른 맞춤 헤어스타일 합성 시스템 구현](https://github.com/chae0328/Custom_HairStyle_Synthesis.git) <-- Access is currently unavailable!!
+### [얼굴형 분석에 따른 맞춤 헤어스타일 합성 시스템 구현](https://github.com/chae0328/Custom_HairStyle_Synthesis.git)
 * **어플리케이션을 통해 사용자가 얼굴형에 적합한 헤어스타일을 찾고, 시뮬레이션 할 수 있는 시스템**
 * 목적 : 헤어스타일 선택에 대한 고민을 해결하기 위한 프로젝트
   
@@ -85,7 +85,7 @@
 <br/>
 <br/>
 
-### [1/5 자율 주행 프로젝트](https://github.com/chae0328/1_5_Autonomous-driving/blob/main/README.md) <-- Click the link for more information!!<br/>
+### [1/5 자율 주행 프로젝트](https://github.com/chae0328/1_5_Autonomous-driving/blob/main/README.md)<br/>
 * **컴퓨터 비전과 라이다 센서를 활용한 차량 제어**<br/><br/> 
 ![corner_car_sample](https://github.com/user-attachments/assets/39c0a9a9-1a4a-4b75-b593-030270230401)
 ![corner-sample](https://github.com/user-attachments/assets/b6f249bb-3624-475e-aeb9-587d23cec4e1)
